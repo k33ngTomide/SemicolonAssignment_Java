@@ -10,7 +10,7 @@ public class Shapes {
 		System.out.println("\t*       * \t *       * \t   *   \t   *       *");
 		System.out.println("\t*       * \t *       * \t   *   \t    *     *");
 		System.out.println("\t*       * \t  *     *  \t   *   \t     *   *");
-		System.out.println("\t********* \t    ***    \t   *   \t       *   \n);
+		System.out.println("\t********* \t    ***    \t   *   \t       *   \n");
 	
 	
 	
