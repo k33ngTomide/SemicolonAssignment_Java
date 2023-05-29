@@ -27,8 +27,8 @@ public class AirConditioner{
 	public void increaseTemperature(){
 	}
 	
-	public boolean isOn (boolean isOn){
-		return isOn;
+	public boolean isOn (){
+		boolean on;
 	}
 	
 	public void setProductName(String productName){
