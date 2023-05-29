@@ -10,6 +10,7 @@ public class AirConditioner{
 	}
 	
 	public void decreaseTemperature(){
+		temperature --;
 	}
 	
 	public void setTemperature (int temperature) {
@@ -25,10 +26,11 @@ public class AirConditioner{
 	}
 	
 	public void increaseTemperature(){
+		temperature ++;
 	}
 	
 	public boolean isOn (){
-		boolean on;
+		return isOn;
 	}
 	
 	public void setProductName(String productName){
